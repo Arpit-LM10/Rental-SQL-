@@ -1,0 +1,27 @@
+ USE Rentiq;
+--  CREATE TABLE buyers (
+--  buyers_id INT AUTO_INCREMENT PRIMARY KEY ,
+--  buyers_name VARCHAR(100) NOT NULL,
+--  email VARCHAR(100) NOT NULL UNIQUE,
+--  phone VARCHAR(20) NOT NULL UNIQUE,
+--  occupation VARCHAR(50),
+--  monthly_income DECIMAL(10,2),
+--  city VARCHAR(80) NOT NULL ,
+--  registered_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+--  );
+--  INSERT INTO buyers (buyers_name,email,phone,occupation,monthly_income,city)
+--  VALUES
+--  ('Ishita Sharma', 'ishita.sharma@example.com', '+919876510101', 'Software Engineer', 75000, 'Mumbai'),
+-- ('Aditya Patil', 'aditya.patil@example.com', '+919876510102', 'Business Owner', 95000, 'Thane'),
+-- ('Sneha Joshi', 'sneha.joshi@example.com', '+919876510103', 'Teacher', 45000, 'Pune'),
+-- ('Rahul Verma', 'rahul.verma@example.com', '+919876510104', 'Data Analyst', 68000, 'Mumbai'),
+-- ('Ananya Rao', 'ananya.rao@example.com', '+919876510105', 'Doctor', 110000, 'Navi Mumbai'),
+-- ('Kunal Shah', 'kunal.shah@example.com', '+919876510106', 'Accountant', 52000, 'Thane'),
+-- ('Meera Nair', 'meera.nair@example.com', '+919876510107', 'Designer', 60000, 'Pune'),
+-- ('Dev Malhotra', 'dev.malhotra@example.com', '+919876510108', 'Marketing Executive', 42000, 'Mira Road'),
+-- ('Pooja Desai', 'pooja.desai@example.com', '+919876510109', 'HR Manager', 82000, 'Navi Mumbai'),
+-- ('Arjun Kulkarni', 'arjun.kulkarni@example.com', '+919876510110', 'Student', 18000, 'Pune');
+
+-- SELECT * FROM owners;
+-- SELECT * FROM properties;
+-- SELECT * FROM buyers;
