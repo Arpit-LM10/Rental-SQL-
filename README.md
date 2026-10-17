@@ -41,7 +41,8 @@ The ER diagram represents the relationships between owners, properties, buyers, 
 
 ![RENTIQ ER Diagram](Documentation/rentiq_er_diagram.png)
 
-The editable MySQL Workbench model is available at `Documentation/rentiq_er_diagram.mwb`.
+The editable MySQL Workbench model is available at
+[Download the model](<Documentation sql/rentiq_er_diagram.mwb>).
 
 ## Key SQL Analysis
 
